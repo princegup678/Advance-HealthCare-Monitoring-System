@@ -25,7 +25,7 @@ Facial expression for emotion detection has always been an easy task for humans,
 - Clone the repository to your System using `git clone`
 - Example : `git clone https://github.com/princegup678/Health-Monitor`
 - Create a new [Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) with python 3.7.0 version.
-- Go in Health-Monitor folder using `cd Health-Monitor`
+- Go in Health-Monitor folder using `cd Advance-HealthCare-Monitor`
 - Install all the dependencies with `pip install -r requirements.txt`.
 - Update your twilio credentials in `camera.py` .
 - Now run the `main.py` file.
