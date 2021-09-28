@@ -1,8 +1,8 @@
-#  Health-Monitor Investigator !
+#  Advance-HealthCare-Monitoring-System !
 
 
 
-# Health-Monitor Recognition Classifier Model :
+# Advance-HealthCare-Monitoring-System Recognition Classifier Model :
 
 Facial expression for emotion detection has always been an easy task for humans, but achieving the same task with a computer algorithm is quite challenging. With the recent advancement in computer vision and machine learning, it is possible to detect emotions from images.In this project,we propose a novel technique called Health-Monitor recognition using convolutional neural networks,python and flask. Facial expressions are the vital identifiers for human feelings, because it corresponds to the emotions. Most of the times (roughly in 55% cases), the facial expression is a nonverbal way of emotional expression, and it can be considered as concrete evidence to uncover whether an individual is speaking the truth or not.
 
@@ -23,11 +23,11 @@ Facial expression for emotion detection has always been an easy task for humans,
 
 ## :boom: Getting Started: Steps to run the Project in your local device !!
 - Clone the repository to your System using `git clone`
-- Example : `git clone https://github.com/princegup678/Health-Monitor`
+- Example : `git clone https://github.com/princegup678/Advance-HealthCare-Monitoring-System`
 - Create a new [Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) with python 3.7.0 version.
-- Go in Health-Monitor folder using `cd Advance-HealthCare-Monitor`
+- Go in Health-Monitor folder using `cd Advance-HealthCare-Monitoring-System`
 - Install all the dependencies with `pip install -r requirements.txt`.
-- Update your twilio credentials in `camera.py` .
+- Update your voyage credentials in `camera.py` .
 - Now run the `main.py` file.
 - Once it shows `Running on http://127.0.0.1:5000/` go to *http://127.0.0.1:5000/* in your browser.
 
