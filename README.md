@@ -63,4 +63,4 @@ deploys our application using *Flask*.
 
 [![](https://media-exp1.licdn.com/dms/image/C5603AQE6Qb0IjivwtQ/profile-displayphoto-shrink_400_400/0/1591760521975?e=1635379200&v=beta&t=d6SmCv7CcAW3H_zzECOw6uJdRyUwSgEZuWkwe3Qlw6k)](https://github.com/princegup678)
 
-[Prince Kumar](https://www.linkedin.com/in/princegup678/)# Advance-HealthCare-Monitoring-System
+[Prince Kumar](https://www.linkedin.com/in/princegup678/)
