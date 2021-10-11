@@ -10,6 +10,6 @@ responseData = sms.send_message(
 )
 
 if responseData["messages"][0]["status"] == "0":
-    print("Message sent successfully.")
+    print("Message sent successfully. This is a check message")
 else:
     print(f"Message failed with error: {responseData['messages'][0]['error-text']}")
