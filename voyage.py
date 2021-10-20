@@ -8,7 +8,7 @@ responseData = sms.send_message(
         "text": "Please hurry \n Patient is alert",
     }
 )
-
+#Used because Twilio was giving some error
 if responseData["messages"][0]["status"] == "0":
     print("Message sent successfully. This is a check message")
 else:
